@@ -1,0 +1,14 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "antimage",
+      "spell": "blink"
+    },
+    {
+      "id": 2,
+      "name": "warlock",
+      "spell": "infernal"
+    }
+  ]
+}
